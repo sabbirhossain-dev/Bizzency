@@ -1,0 +1,1018 @@
+@media (min-width:320px) and (max-width:575px) {
+
+
+
+    .title h3 {
+        font-size: 30px;
+    }
+
+    .title p {
+        font-size: 14px;
+    }
+
+    /*    header-top responsive start*/
+
+    #header-top {
+        padding: 5px 0;
+    }
+
+    #header-top .text p {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+
+    #header-top .time p {
+        font-size: 13px
+    }
+
+
+    /*    header-top responsive end*/
+
+
+
+
+    /*    navbar responsive start*/
+
+    nav.navbar.navbar-expand-lg {
+        padding: 10px 0;
+    }
+
+    nav .navbar-brand img {
+        padding-left: 15px;
+        width: 120px;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    /*    navbar responsive end*/
+
+
+    /*    banner responsive start*/
+
+    #banner-part {
+        margin-bottom: 30px;
+    }
+
+    #banner-part .text {
+        padding: 40px 0;
+    }
+
+    #banner-part .text .your {
+        font-size: 40px;
+    }
+
+    #banner-part .text h1 {
+        font-size: 60px;
+    }
+
+    #banner-part .text .our {
+        font-size: 24px;
+        letter-spacing: 10px;
+        color: #9099d4;
+    }
+
+    #banner-part .text .details {
+        width: auto;
+        font-size: 14px;
+    }
+
+    #banner-part .text a {
+        font-size: 15px;
+        padding: 7px 7px;
+    }
+
+    /*    banner responsive end*/
+
+
+    /*    about responsive start*/
+
+
+    #about-part {
+        margin-bottom: 30px;
+    }
+
+    #about-part .text .who {
+        font-size: 15px;
+    }
+
+    #about-part .text h3 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+
+
+    #about-part .text .details {
+        font-size: 14px;
+        padding-bottom: 25px;
+    }
+
+    #about-part .text ul {
+        padding-left: 15px;
+        padding-bottom: 15px;
+    }
+
+    #about-part .text ul li {
+        font-size: 15px;
+    }
+
+    #about-part .text a {
+        font-size: 16px;
+        padding: 7px 15px;
+        margin-right: 15px;
+    }
+
+    #about-part .img {
+        margin-top: 30px;
+    }
+
+
+    /*    about responsive end*/
+
+
+
+    /*    service responsive start*/
+
+
+    #service-part {
+        padding-top: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #service-part .content {
+        margin-bottom: 20px;
+    }
+
+    #service-part .content .details h4 {
+        font-size: 18px;
+    }
+
+    #service-part .content .details p {
+        font-size: 13px;
+    }
+
+    #service-part .content .overlay h4 {
+        font-size: 18px;
+    }
+
+    /*    service responsive end*/
+
+
+
+    /*    portfolio responsive start*/
+
+
+    #portfolio-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #portfolio-part .img {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .img img {
+        width: 100%;
+    }
+
+    #portfolio-part .img .overlay p {
+        font-size: 18px;
+        line-height: 50px;
+    }
+
+    #portfolio-part a {
+        font-size: 14px;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    /*    portfolio responsive end*/
+
+
+
+
+    /*    testimonial responsive start*/
+
+    #testimonial-part {
+        padding: 30px 0;
+    }
+
+    #testimonial-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #testimonial-part .img {
+        width: 100%;
+        height: auto;
+    }
+
+    #testimonial-part .details {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part .details h2 {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+
+    #testimonial-part .details h3 {
+        font-size: 15px;
+    }
+
+    /*    testimonial responsive end*/
+
+
+
+    /*    blog responsive start*/
+
+
+    #blog-part .item {
+        margin-bottom: 20px;
+    }
+
+
+    #blog-part .button {
+        font-size: 14px;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    /*    blog responsive end*/
+
+
+    /*    footer responsive start*/
+
+    #footer-part {
+        padding-top: 30px;
+    }
+
+    #footer-part .social {
+        text-align: center;
+    }
+
+    #footer-part .social p {
+        font-size: 14px;
+    }
+
+    #footer-part .social ul li {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #footer-part .social ul li a {
+        font-size: 18px;
+    }
+
+
+    #footer-part .contact h3 {
+        margin-bottom: 25px;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+
+
+
+    #footer-part .link {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+
+    #footer-part .flicker {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #footer-part .flicker .img {
+        margin-top: 30px;
+    }
+
+    #footer-part .flicker .img img {
+        width: 22.8%;
+    }
+
+
+
+
+    #footer-bottom ul li {
+        font-size: 13px;
+        margin-right: 8px;
+    }
+
+
+    /*    footer responsive end*/
+
+
+}
+
+
+
+
+
+
+@media (min-width:576px) and (max-width:767px) {
+
+    .title h3 {
+        font-size: 30px;
+    }
+
+    .title p {
+        font-size: 14px;
+    }
+
+    /*    header-top responsive start*/
+
+    #header-top .time {
+        margin-top: -19px;
+    }
+
+
+    #header-top .text p {
+        font-size: 13px;
+    }
+
+
+    #header-top .time p {
+        font-size: 13px
+    }
+
+    /*    header-top responsive end*/
+
+
+    /*    navbar responsive start*/
+
+    nav.navbar.navbar-expand-lg {
+        padding: 15px 0;
+    }
+
+    nav .navbar-brand img {
+        padding-left: 15px;
+        width: 120px;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    /*    navbar responsive end*/
+
+
+
+    /*    banner responsive start*/
+
+    #banner-part {
+        margin-bottom: 30px;
+    }
+
+    #banner-part .text {
+        padding: 40px 0;
+    }
+
+    #banner-part .text .your {
+        font-size: 40px;
+    }
+
+    #banner-part .text h1 {
+        font-size: 60px;
+    }
+
+    #banner-part .text .our {
+        font-size: 24px;
+        letter-spacing: 10px;
+        color: #9099d4;
+    }
+
+    #banner-part .text .details {
+        width: auto;
+        font-size: 14px;
+    }
+
+    #banner-part .text a {
+        font-size: 15px;
+        padding: 7px 7px;
+    }
+
+    /*    banner responsive end*/
+
+
+    /*    about responsive start*/
+
+
+    #about-part {
+        margin-bottom: 30px;
+    }
+
+    #about-part .text .who {
+        font-size: 18px;
+    }
+
+    #about-part .text h3 {
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+
+
+    #about-part .text .details {
+        font-size: 16px;
+        padding-bottom: 25px;
+    }
+
+    #about-part .text ul {
+        padding-left: 15px;
+        padding-bottom: 15px;
+    }
+
+    #about-part .text ul li {
+        font-size: 17px;
+    }
+
+    #about-part .text a {
+        font-size: 16px;
+        padding: 10px 15px;
+        margin-right: 15px;
+    }
+
+    #about-part .img {
+        margin-top: 40px;
+    }
+
+
+    /*    about responsive end*/
+
+
+
+    /*    service responsive start*/
+
+
+    #service-part {
+        padding-top: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #service-part .content {
+        margin-bottom: 20px;
+    }
+
+    #service-part .content .img img {
+        transform: translateY(70%);
+    }
+
+    #service-part .content .details h4 {
+        font-size: 18px;
+        padding-top: 15px;
+        padding-bottom: 5px;
+    }
+
+    #service-part .content .details p {
+        font-size: 14px;
+    }
+
+    #service-part .content .overlay img {
+        padding-top: 26px;
+    }
+
+    #service-part .content .overlay h4 {
+        font-size: 18px;
+    }
+
+    /*    service responsive end*/
+
+
+
+
+
+    /*    portfolio responsive start*/
+
+
+    #portfolio-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #portfolio-part .img {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .img img {
+        width: 100%;
+    }
+
+    #portfolio-part .img .overlay p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    #portfolio-part a {
+        font-size: 14px;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    /*    portfolio responsive end*/
+
+
+
+
+    
+    /*    testimonial responsive start*/
+
+    #testimonial-part {
+        padding: 30px 0;
+    }
+
+    #testimonial-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #testimonial-part .img {
+        width: 100%;
+        height: auto;
+    }
+
+    #testimonial-part .details {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part .details h2 {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+
+    #testimonial-part .details h3 {
+        font-size: 15px;
+    }
+
+    /*    testimonial responsive end*/
+
+
+
+
+    /*    blog responsive start*/
+
+
+    #blog-part .item {
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+    #blog-part .item .details {
+        padding-bottom: 0;
+    }
+
+    #blog-part .item .details h3 {
+        font-size: 15px;
+        padding-bottom: 10px;
+        line-height: 1.7;
+    }
+
+    #blog-part .item .details p {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+
+    #blog-part .item .details a {
+        font-size: 14px;
+    }
+
+    #blog-part .button {
+        font-size: 14px;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    /*    blog responsive end*/
+
+
+
+    /*    footer responsive start*/
+
+    #footer-part {
+        padding-top: 30px;
+    }
+
+    #footer-part .social {
+        text-align: center;
+    }
+
+    #footer-part .social p {
+        font-size: 14px;
+    }
+
+    #footer-part .social ul li {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #footer-part .social ul li a {
+        font-size: 18px;
+    }
+
+
+    #footer-part .link {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    #footer-part .flicker {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #footer-part .flicker .img {
+        margin-top: 41px;
+    }
+
+    #footer-part .flicker .img img {
+        width: 22.8%;
+    }
+
+
+
+
+    #footer-bottom ul li {
+        font-size: 13px;
+        margin-right: 8px;
+    }
+
+
+    /*    footer responsive end*/
+
+
+
+
+}
+
+
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+
+    .title h3 {
+        font-size: 30px;
+    }
+
+    .title p {
+        font-size: 14px;
+    }
+
+    /*    header-top responsive start*/
+
+    #header-top .time {
+        margin-top: -19px;
+    }
+
+
+    #header-top .text p {
+        font-size: 13px;
+    }
+
+
+    #header-top .time p {
+        font-size: 13px
+    }
+
+    /*    header-top responsive end*/
+
+
+    /*    navbar responsive start*/
+
+    nav.navbar.navbar-expand-lg {
+        padding: 15px 0;
+    }
+
+    nav .navbar-brand img {
+        padding-left: 15px;
+        width: 120px;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    /*    navbar responsive end*/
+
+
+
+    /*    banner responsive start*/
+
+    #banner-part {
+        margin-bottom: 30px;
+    }
+
+    #banner-part .text {
+        padding: 40px 0;
+    }
+
+    #banner-part .text .your {
+        font-size: 40px;
+    }
+
+    #banner-part .text h1 {
+        font-size: 60px;
+    }
+
+    #banner-part .text .our {
+        font-size: 24px;
+        letter-spacing: 10px;
+        color: #9099d4;
+    }
+
+    #banner-part .text .details {
+        width: auto;
+        font-size: 14px;
+    }
+
+    #banner-part .text a {
+        font-size: 15px;
+        padding: 7px 7px;
+    }
+
+    /*    banner responsive end*/
+
+
+    /*    about responsive start*/
+
+
+    #about-part {
+        margin-bottom: 30px;
+    }
+
+    #about-part .text .who {
+        font-size: 18px;
+    }
+
+    #about-part .text h3 {
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+
+
+    #about-part .text .details {
+        font-size: 16px;
+        padding-bottom: 25px;
+    }
+
+    #about-part .text ul {
+        padding-left: 15px;
+        padding-bottom: 15px;
+    }
+
+    #about-part .text ul li {
+        font-size: 17px;
+    }
+
+    #about-part .text a {
+        font-size: 16px;
+        padding: 10px 15px;
+        margin-right: 15px;
+    }
+
+    #about-part .img {
+        margin-top: 40px;
+    }
+
+
+    /*    about responsive end*/
+
+
+
+    /*    service responsive start*/
+
+
+    #service-part {
+        padding-top: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #service-part .content {
+        margin-bottom: 20px;
+    }
+
+    #service-part .content .img img {
+        transform: translateY(45%);
+    }
+
+    #service-part .content .details h4 {
+        font-size: 18px;
+        padding-top: 15px;
+        padding-bottom: 5px;
+    }
+
+    #service-part .content .details p {
+        font-size: 14px;
+    }
+
+    #service-part .content .overlay img {
+        padding-top: 12px;
+    }
+
+    #service-part .content .overlay h4 {
+        font-size: 18px;
+    }
+
+    /*    service responsive end*/
+
+
+
+
+
+    /*    portfolio responsive start*/
+
+
+    #portfolio-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #portfolio-part .img {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .img img {
+        width: 100%;
+    }
+
+    #portfolio-part .img .overlay p {
+        font-size: 15px;
+        line-height: 38px;
+    }
+
+    #portfolio-part a {
+        font-size: 14px;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    /*    portfolio responsive end*/
+
+
+
+
+
+    /*    testimonial responsive start*/
+
+    #testimonial-part {
+        padding: 30px 0;
+    }
+
+    #testimonial-part .item {
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part .title h3 {
+        padding-bottom: 30px;
+    }
+
+    #testimonial-part .details {
+        padding: 9px;
+    }
+
+    #testimonial-part .details p {
+        font-size: 13px;
+    }
+
+    #testimonial-part .details h2 {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+
+    #testimonial-part .details h3 {
+        font-size: 15px;
+    }
+
+    /*    testimonial responsive end*/
+
+
+    /*    blog responsive start*/
+
+
+    #blog-part .item {
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+    #blog-part .item .details {
+        padding-bottom: 10px;
+    }
+
+    #blog-part .item .details h3 {
+        font-size: 15px;
+        padding-bottom: 10px;
+        line-height: 1.7;
+    }
+
+    #blog-part .item .details p {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+
+    #blog-part .item .details a {
+        font-size: 14px;
+    }
+
+    #blog-part .button {
+        font-size: 14px;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    /*    blog responsive end*/
+
+
+
+    /*    footer responsive start*/
+
+    #footer-part {
+        padding-top: 30px;
+    }
+
+    #footer-part .social {
+        text-align: center;
+    }
+
+    #footer-part .social p {
+        font-size: 14px;
+    }
+
+    #footer-part .social ul li {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #footer-part .social ul li a {
+        font-size: 18px;
+    }
+
+
+
+    #footer-part .link {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    #footer-part .flicker {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #footer-part .flicker .img {
+        margin-top: 41px;
+    }
+
+    #footer-part .flicker .img img {
+        width: 22.8%;
+    }
+
+
+
+
+    #footer-bottom ul li {
+        font-size: 13px;
+        margin-right: 8px;
+    }
+
+
+    /*    footer responsive end*/
+
+
+
+
+}
