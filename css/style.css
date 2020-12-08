@@ -99,6 +99,14 @@ nav ul li a:hover {
     background: #070707;
 }
 
+.sticky{
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    top:0;
+    background: #c1ddda;
+    padding: 15px 0 !important;
+}
 
 /*navbar css end*/
 /*navbar css end*/
